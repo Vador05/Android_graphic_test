@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Bildschirme Test</string>
+    <string name="btn_text">Bertreten</string>
+    <string name="welcome_txt">Willkommen</string>
+    <string name="image_descriptor">Tapete mit der Android-puppe in einer wolke</string>
+
+</resources>

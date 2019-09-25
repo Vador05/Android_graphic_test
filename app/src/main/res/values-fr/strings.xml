@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test d\'Ecrans Android</string>
+    <string name="btn_text">Entrer</string>
+    <string name="welcome_txt">Bienvenue</string>
+    <string name="image_descriptor">Fond d\'écran contenant la poupée Android dans un nuage</string>
+
+</resources>

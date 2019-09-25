@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Screen Test</string>
+    <string name="btn_text">Enter</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="image_descriptor">Background image containing the android doll in a cloud</string>
+</resources>
